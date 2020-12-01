@@ -1,6 +1,6 @@
-# AEM Workshop Project
+# AEM SPA Workshop Project
 
-This is my portfolio project for AEM-based applications. It is intended as a catalog of my implemented functionalities and features.
+This is my portfolio project for AEM-based SPA applications. It is intended as a catalog of my implemented functionalities and features.
 
 ## Modules
 
